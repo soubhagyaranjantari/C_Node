@@ -1,0 +1,15 @@
+{
+  "name": "c_node",
+  "version": "1.0.0",
+  "description": "C Node JS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "author": "Soubhagya Ranjan Tarai",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.3"
+  }
+}
